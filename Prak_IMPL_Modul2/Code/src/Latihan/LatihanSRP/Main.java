@@ -1,4 +1,4 @@
-package LatihanSRP;
+package Latihan.LatihanSRP;
 
 class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package LatihanOCP;
+package Tugas.Tugas3OCP;
 
 class PremiumCinema extends Cinema {
     public PremiumCinema(Double price) {

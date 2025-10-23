@@ -1,4 +1,4 @@
-package LatihanLSP;
+package Latihan.LatihanLSP;
 
 import java.util.Date;
 

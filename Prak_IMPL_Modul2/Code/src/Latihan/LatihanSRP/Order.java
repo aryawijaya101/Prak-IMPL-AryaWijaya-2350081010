@@ -1,4 +1,4 @@
-package LatihanSRP;
+package Latihan.LatihanSRP;
 
 class Order {
     void calculateTotalSum() {

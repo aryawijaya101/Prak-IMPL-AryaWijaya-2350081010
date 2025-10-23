@@ -1,4 +1,4 @@
-package LatihanOCP;
+package Latihan.LatihanOCP;
 
 abstract class Cinema {
     public Double price;

@@ -1,4 +1,4 @@
-package LatihanLSP;
+package Latihan.LatihanLSP;
 
 class Smartphone extends Product {
     @Override

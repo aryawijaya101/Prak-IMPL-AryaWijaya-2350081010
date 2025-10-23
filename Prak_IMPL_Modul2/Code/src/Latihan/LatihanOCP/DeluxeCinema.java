@@ -1,4 +1,4 @@
-package LatihanOCP;
+package Latihan.LatihanOCP;
 
 class DeluxeCinema extends Cinema {
     public DeluxeCinema(Double price) {

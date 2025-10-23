@@ -1,4 +1,4 @@
-package LatihanOCP;
+package Latihan.LatihanOCP;
 
 class Main {
     public static void main(String[] args) {

@@ -1,9 +1,9 @@
-package LatihanOCP;
+package Tugas.Tugas3OCP;
 
 class Main {
     public static void main(String[] args) {
-        StandardCinema standardCinema = new StandardCinema(100.0);
-        Double adminFee = standardCinema.calculateAdminFee();
+        MahasiswaCinema mahasiswaCinema = new MahasiswaCinema(100.0);
+        Double adminFee = mahasiswaCinema.calculateAdminFee();
         System.out.println(adminFee);
     }
 }

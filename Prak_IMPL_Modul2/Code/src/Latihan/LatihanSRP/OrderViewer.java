@@ -1,4 +1,4 @@
-package LatihanSRP;
+package Latihan.LatihanSRP;
 
 class OrderViewer {
     void printOrder(Order order) {

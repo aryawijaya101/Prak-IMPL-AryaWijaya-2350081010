@@ -1,4 +1,4 @@
-package LatihanLSP;
+package Latihan.LatihanLSP;
 
 abstract class Product {
     abstract String getName();
