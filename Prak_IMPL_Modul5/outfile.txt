@@ -1,0 +1,14 @@
+Nilai pada indeks: 0 = 0
+Nilai pada indeks: 1 = 1
+Nilai pada indeks: 2 = 2
+Nilai pada indeks: 3 = 3
+Nilai pada indeks: 4 = 4
+Nilai pada indeks: 5 = 5
+Nilai pada indeks: 6 = 6
+Nilai pada indeks: 7 = 7
+Nilai pada indeks: 8 = 8
+Nilai pada indeks: 9 = 9
+Nilai pada indeks: 10 = 0
+Nilai pada indeks: 11 = 1
+Nilai pada indeks: 12 = 2
+Nilai pada indeks: 13 = 4
